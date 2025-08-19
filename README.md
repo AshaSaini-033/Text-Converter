@@ -24,3 +24,4 @@ A simple and handy **React app** to transform text instantly. It lets you conver
 ##  Getting Started  
 
 ### 1. Clone the repo  
+https://github.com/AshaSaini-033/Text-Converter.git

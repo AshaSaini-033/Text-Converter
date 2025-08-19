@@ -1,0 +1,27 @@
+h1{
+  color: rgb(255, 0, 212);
+}
+.button
+{
+  background-color: rgb(0, 153, 255);
+}
+#blue
+{
+  background-color: blue;
+}
+#pink
+{
+  background-color: rgb(184, 44, 186);
+}
+#grey
+{
+  background-color: grey;
+}
+#green
+{
+  background-color: green;
+}
+#yellow
+{
+  background-color: yellow;
+}
